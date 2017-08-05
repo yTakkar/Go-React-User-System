@@ -2,6 +2,9 @@
 
 A single-page user-system made with ReactJS, Redux & Golang!!
 
+# User-system without React
+Visit [this](https://github.com/yTakkar/Go-User-System) link!!
+
 # Usage
 1. Open PHPMyAdmin, create a db & import `db.sql`.
 2. Go to `models/db.go` & change DB connection settings.
